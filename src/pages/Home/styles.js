@@ -15,7 +15,7 @@ export const Search = styled.section`
   flex-direction: column;
   justify-content: center;
   background-color: #ffffff;
-  padding: 6px;
+  padding: 16px;
 `;
 
 export const Logo = styled.img`
@@ -28,7 +28,7 @@ export const Title = styled(Text)`
 
 export const Carousel = styled(Slider)`
   .slick-slide {
-    margin-right: 16px;
+    margin-right: 6px;
   }
 `;
 
