@@ -17,7 +17,7 @@ export const MapContainer = (props) => {
 
       const request = {
         location: map.center,
-        radius: '200',
+        radius: '2000',
         type: ['restaurant'],
         query,
       };
